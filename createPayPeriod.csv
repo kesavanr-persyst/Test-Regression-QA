@@ -1,0 +1,2 @@
+Code,Name,status,paydate,periodfrom,periodto,cutoffday,fixeddays,noofdays,dayofwagecalculation,paymode,taxfrom,taxto,isactive,isclosed,currentperiod,payperiodtype,attendancefrom,attendanceto,financialYearFrom,financialYearTo,udid
+PP_Feb29St,Pay Period Ful Month - Febraury 29 2020 Std,true,2020-02-29 00:00:00,2020-02-01 00:00:00,2020-02-29 00:00:00,26,28,29,Standard,Monthly,2020-04-01 00:00:00,2021-03-31 00:00:00,1,0,2020-02-29 00:00:00,PayPeriod,2020-02-01 00:00:00,2020-02-29 00:00:00,2020-04-01 00:00:00,2021-03-31 00:00:00,b7940b0a-7e7f-4a58-9e05-7591a9a86982
